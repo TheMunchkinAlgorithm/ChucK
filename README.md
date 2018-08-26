@@ -8,7 +8,24 @@ Programming experiments based on "Programming for Musicians and Digital Artists 
 - Sound & Waves
 - Data Structures
 - Control Statements
+- Multiple Soundwaves
+
+#### Session 2: Libraries and Arrays
+#### Session 3: Sound File Manipulation
+#### Session 4: Functions
+#### Session 5: Unit Generators And Physical Models 
+#### Session 6: Multi-Threading And Concurrency 
+#### Session 7: Objects And Classes
+#### Session 8: Live Control: Keyboard, Mouse, MIDI & OSC 
 
 ### 1. PSets
 #### Session 1: Basics: Sound, Waves, and ChucK Programming
 - Hello ChucK! 
+
+#### Session 2: Libraries and Arrays
+#### Session 3: Sound File Manipulation
+#### Session 4: Functions
+#### Session 5: Unit Generators And Physical Models 
+#### Session 6: Multi-Threading And Concurrency 
+#### Session 7: Objects And Classes
+#### Session 8: Live Control: Keyboard, Mouse, MIDI & OSC 
