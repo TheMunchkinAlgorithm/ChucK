@@ -4,7 +4,11 @@ Programming experiments based on "Programming for Musicians and Digital Artists 
 
 
 ### 0. Index
-#### Basics
+#### Session 1: Basics: Sound, Waves, and ChucK Programming
 - Sound & Waves
 - Data Structures
 - Control Statements
+
+### 1. PSets
+#### Session 1: Basics: Sound, Waves, and ChucK Programming
+- Hello ChucK! 
