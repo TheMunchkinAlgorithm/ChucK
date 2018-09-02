@@ -2,7 +2,7 @@
 
 + Programming experiments based on "Programming for Musicians and Digital Artists - Creating music with ChucK" (Stanford / CalArts) with sound design, (real-time) synthesis, composition, and performance as focal point.
 
-+ UpChucK, which is a new programming model for performing audio analysis, spectral processing, and feature extraction that unifies analysis and synthesis.
++ \+ UpChucK, which is a new programming model for performing audio analysis, spectral processing, and feature extraction that unifies analysis and synthesis.
 
 
 ### 0. Index
